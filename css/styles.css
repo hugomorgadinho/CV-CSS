@@ -65,7 +65,7 @@ p {
 .top-container {
   background-color: #ffe5b9;
   display: block;
-  padding-top: 39.06rem;
+  padding-top:62.5%;
 
 }
 
@@ -88,8 +88,7 @@ p {
 
 .profile-picture {
     float: right;
-    width:31.25rem;
-    height: 39.06rem;
+    width: 50%;
     position:absolute;
     top: 0rem;
     right: 0.00rem;
@@ -196,17 +195,18 @@ padding-top: 35px;
 .skills-link {
   position: absolute;
   top: 1rem;
-  left: 4rem;
+  left: 3rem;
   width: 8%;
-  font-size: 1rem;
+  font-size: 70%;
 
 }
 
 .contact-link {
   position: absolute;
   top: 1rem;
-  left: 11rem;
+  left: 9rem;
   width: 8%;
-  font-size: 1rem;
+  font-size: 70%;
 
 }
+
