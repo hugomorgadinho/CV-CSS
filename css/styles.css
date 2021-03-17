@@ -1,0 +1,212 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color:#4a3933;
+  font-size: 1.18rem;
+}
+
+h1 {
+  margin: 50px auto 0px auto;
+  color: #663f3f;
+  font-family: 'Lora', serif;
+  font-size: 4rem;
+}
+
+h2 {
+  margin: 50px auto 25px auto;
+  font-family: 'Lora', serif;
+  letter-spacing: 1px;
+  color: #663f3f;
+  font-size: 1.75rem;
+}
+
+h3 {
+  font-size: 2.5rem;
+  font-family: 'Lora', serif;
+  color: #663f3f;
+  margin: 50px auto 40px auto;
+}
+
+h4 {
+
+  font-size: 1.50rem;
+  color: #663f3f;
+  font-family: 'Lora', serif;
+}
+
+hr {
+  border: solid;
+  border-left: none;
+  border-right: none;
+  border-bottom: none;
+  color: #663f3f;
+  width: 5%;
+}
+
+a {
+  text-decoration: none;
+  color: #663f3f;
+}
+
+
+a:hover {
+  color: #ffc75f;
+}
+
+p {
+  line-height: 2;
+}
+
+
+
+/*****************************CLASS SELECTORS*************************/
+
+.top-container {
+  background-color: #ffe5b9;
+  display: block;
+  padding-top: 39.06rem;
+
+}
+
+.intro-1 {
+  text-align: left;
+  position: absolute;
+  left: 5rem;
+  top: 12.25rem;
+}
+
+.intro-2 {
+  text-align: left;
+  position: absolute;
+  left: 5rem;
+  top: 20.68rem;
+  width: 35%;
+  line-height: 1.7;
+
+}
+
+.profile-picture {
+    float: right;
+    width:31.25rem;
+    height: 39.06rem;
+    position:absolute;
+    top: 0rem;
+    right: 0.00rem;
+
+
+}
+
+
+
+.middle-container {
+
+background-color: #fcf8e8;
+padding-top: 60px;
+line-height: 2;
+font-size: 100%
+}
+
+.bottom-container {
+  background-color: #ffe5b9;
+ font-family: 'Montserrat', sans-serif;
+ color: #663f3f;
+padding-bottom: 20px;
+padding-top: 35px;
+}
+
+
+.skill-row {
+  text-align: left;
+  width: 50%;
+  margin: 70px auto 100px auto;
+  line-height: 2;
+
+}
+
+.skills-pic1 {
+
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skills-pic2 {
+
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.hugo-img {
+  width:22%;
+}
+
+.profile {
+
+  margin-bottom: 50px;
+}
+
+.contact-me {
+  padding-bottom: 80px;
+}
+
+.btn {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #fcf8e8;
+   font-family: 'Lora', serif;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 8px;
+   background-color: #663f3f;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   letter-spacing: 1px;
+   margin: 35px auto 30px;
+
+}
+
+.btn:hover {
+   background: #85603f;
+   border: solid #FFFFFF 0;
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   text-decoration: none;
+}
+
+.footer-link {
+  margin: auto 20px auto 20px;
+}
+
+.copyright {
+  margin-top: 50px;
+  padding-bottom: 15px;
+
+  font-size: 0.9rem;
+}
+
+
+
+
+.skills-link {
+  position: absolute;
+  top: 1rem;
+  left: 5rem;
+  width: 8%;
+  font-size: 1rem;
+
+}
+
+.contact-link {
+  position: absolute;
+  top: 1rem;
+  left: 12rem;
+  width: 8%;
+  font-size: 1rem;
+
+}
