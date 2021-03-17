@@ -72,14 +72,14 @@ p {
 .intro-1 {
   text-align: left;
   position: absolute;
-  left: 5rem;
+  left: 4rem;
   top: 12.25rem;
 }
 
 .intro-2 {
   text-align: left;
   position: absolute;
-  left: 5rem;
+  left: 4rem;
   top: 20.68rem;
   width: 35%;
   line-height: 1.7;
@@ -196,7 +196,7 @@ padding-top: 35px;
 .skills-link {
   position: absolute;
   top: 1rem;
-  left: 5rem;
+  left: 4rem;
   width: 8%;
   font-size: 1rem;
 
@@ -205,7 +205,7 @@ padding-top: 35px;
 .contact-link {
   position: absolute;
   top: 1rem;
-  left: 12rem;
+  left: 11rem;
   width: 8%;
   font-size: 1rem;
 
